@@ -1,2 +1,5 @@
 # Zamtel-loans-app
-I want a loan website with Somali language and has setting to change language on top. 
+# Zimtel Loan App - Zambia
+Instant mobile loans for Zamtel users.
+Live: https://loanb.vercel.app
+Stack: HTML, CSS, JavaScript
